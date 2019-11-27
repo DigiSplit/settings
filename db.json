@@ -1,12 +1,12 @@
 {
   "epl": {
-    "theme": "paper",
+    "channel_theme": "paper",
     "custom_block": {
       "type": "cool"
     }
   },
   "lood": {
-    "theme": "online",
+    "channel_theme": "online",
     "custom_block": {
       "type": "super-cool"
     }
