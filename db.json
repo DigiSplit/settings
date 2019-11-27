@@ -1,0 +1,14 @@
+{
+  "epl": {
+    "theme": "paper",
+    "custom_block": {
+      "type": "cool"
+    }
+  },
+  "lood": {
+    "theme": "online",
+    "custom_block": {
+      "type": "super-cool"
+    }
+  }
+}
