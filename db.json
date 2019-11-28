@@ -2,13 +2,28 @@
   "epl": {
     "channel_theme": "paper",
     "news": {
-      "component": "newsBigBlock"
+      "component": {
+        "name": "NewsBigBlock",
+        "type": "center"
+      }
+    }
+  },
+  "epl": {
+    "channel_theme": "paper",
+    "news": {
+      "component": {
+        "name": "NewsBigBlock",
+        "type": null
+      }
     }
   },
   "lood": {
     "channel_theme": "online",
     "news": {
-      "component": "newsSmallBlock"
+      "component": {
+        "name": "NewsSmallBlock",
+        "type": null
+      }
     }
   }
 }
