@@ -1,8 +1,8 @@
 {
   "epl": {
     "channel_theme": "paper",
-    "custom_block": {
-      "type": "cool"
+    "news": {
+      "component": "newsBigBlock"
     }
   },
   "lood": {
