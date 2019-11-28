@@ -7,8 +7,8 @@
   },
   "lood": {
     "channel_theme": "online",
-    "custom_block": {
-      "type": "super-cool"
+    "news": {
+      "component": "newsSmallBlock"
     }
   }
 }
