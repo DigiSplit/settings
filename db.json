@@ -1,5 +1,9 @@
 {
   "epl": {
+    "meta": {
+      "title": "Eesti Päevaleht",
+      "description": "Päevalehe kodulehekülg arhiivi, online-uudiste ja küsitlustega. Info toimetuse, tellimise ja reklaami kohta."
+    },
     "channel_theme": "paper",
     "news": {
       "component": {
@@ -9,6 +13,10 @@
     }
   },
   "ekspress": {
+    "meta": {
+      "title": "Eesti Ekspress",
+      "description": "Uuriva ajakirjanduse lipulaev - Ekspress ei vaatle kõrvalseisjana, vaid sekkub ühiskonda aktiivselt ja võitlevalt."
+    },
     "channel_theme": "paper",
     "news": {
       "component": {
@@ -18,6 +26,10 @@
     }
   },
   "lood": {
+    "meta": {
+      "title": "Delfi Lood",
+      "description": "Delfi Lood ajakirjade portaal, mis koondab ajakirjad Eesti Naine, Anne & Stiil, Pere ja Kodu, Oma Maitse, Maakodu ja Tervis Pluss."
+    },
     "channel_theme": "online",
     "news": {
       "component": {
